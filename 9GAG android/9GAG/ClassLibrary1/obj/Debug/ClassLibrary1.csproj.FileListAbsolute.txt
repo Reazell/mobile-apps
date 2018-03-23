@@ -1,0 +1,15 @@
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Binding.dll
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Core.dll
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Localization.dll
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Platform.dll
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Binding.pdb
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Core.pdb
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Localization.pdb
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\bin\Debug\MvvmCross.Platform.pdb
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

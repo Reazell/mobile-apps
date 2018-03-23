@@ -1,8 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <Jars />
-  <ResolvedResourceDirectories />
-  <ResolvedAssetDirectories />
+  <Jars>
+    <Jar>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\10\jl\arch-core-common.jar</Jar>
+    <Jar>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\11\jl\arch-lifecycle-common.jar</Jar>
+    <Jar>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\12\jl\bin\classes.jar</Jar>
+    <Jar>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\13\jl\support-annotations.jar</Jar>
+    <Jar>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\14\jl\bin\classes.jar</Jar>
+    <Jar>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\15\jl\bin\classes.jar</Jar>
+    <Jar>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\16\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\2\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\5\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\16\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\2\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\5\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Users\szymon.przybyszewski\Documents\mobile-applications\9GAG android\9GAG\9GAG\obj\Debug\lp\16.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>
