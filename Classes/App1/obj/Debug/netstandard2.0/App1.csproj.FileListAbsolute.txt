@@ -1,0 +1,12 @@
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojResolveAssemblyReference.cache
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.App.xaml.g.cs
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.MainPage.xaml.g.cs
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+D:\Users\szymon.przybyszewski\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.SecondPage.xaml.g.cs
