@@ -8,15 +8,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace App1 {
+namespace App1.Data {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Users\\szymon.przybyszewski\\source\\repos\\Xamarin\\App1\\App1\\App.xaml")]
-    public partial class App : global::Xamarin.Forms.Application {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Users\\szymon.przybyszewski\\source\\repos\\Xamarin\\App1\\App1\\Data\\Properties.xaml" +
+        "")]
+    public partial class Properties : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Properties));
         }
     }
 }

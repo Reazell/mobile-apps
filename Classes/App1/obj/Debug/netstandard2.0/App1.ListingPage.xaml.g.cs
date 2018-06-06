@@ -11,12 +11,16 @@
 namespace App1 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Users\\szymon.przybyszewski\\source\\repos\\Xamarin\\App1\\App1\\App.xaml")]
-    public partial class App : global::Xamarin.Forms.Application {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Users\\szymon.przybyszewski\\source\\repos\\Xamarin\\App1\\App1\\ListingPage.xaml")]
+    public partial class ListingPage : global::Xamarin.Forms.ContentPage {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.ListView lvItems;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ListingPage));
+            lvItems = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "lvItems");
         }
     }
 }

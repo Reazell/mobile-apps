@@ -10,17 +10,17 @@ namespace App1
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class SecondPage : ContentPage
-	{
-		public SecondPage ()
-		{
-			InitializeComponent ();
+    {
+        public SecondPage()
+        {
+            InitializeComponent();
             btnBack.Clicked += BtnBack_Clicked;
-		}
+        }
 
         private async void BtnBack_Clicked(object sender, EventArgs e)
         {
-           if( Navigation.ModalStack.Any())
-              await Navigation.PopModalAsync();
+            if (Navigation.ModalStack.Any())
+                await Navigation.PopModalAsync();
         }
     }
 }
